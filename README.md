@@ -43,7 +43,7 @@
 </main>
 
 </html>
-
+<css>
 body{
     font-family: sans-serif;
     background-color: sandybrown;
@@ -105,3 +105,7 @@ p2{
     color: wheat;
     border-radius: 10px;
 }
+
+  
+</css>
+
